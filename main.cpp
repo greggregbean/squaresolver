@@ -4,7 +4,9 @@
 #include <assert.h>
 
 #include "squaresolver.h"
+#include "squaresolver.cpp"
 #include "testing.h"
+#include "testing.cpp"
 
 static const double EPS = 0.000001;
 
