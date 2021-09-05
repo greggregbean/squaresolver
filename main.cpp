@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <assert.h>
 
 #include "squaresolver.h"
 #include "squaresolver.cpp"
@@ -31,10 +30,12 @@ int main(){
     printf ("\n");
 
     int numRoots = SquareSolver(a, b, c, &x1, &x2);
-    if (numRoots == CountOfRoots :: ERROR) printf("ERROR\n");
+    if (numRoots == ERROR) printf("ERROR\n");
     PrintRoots(x1, x2, numRoots);
 
     return 0;
 }
+
+
 
 
