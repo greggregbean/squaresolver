@@ -1,12 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <assert.h>
-
-#include "testing.h"
-#include "squaresolver.cpp"
-#include "squaresolver.h"
-
 int Testing(){
 
     double x1 = NAN;
