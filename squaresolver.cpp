@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-
 double Discrim(double a, double b, double c)
 {
     double D = 0;
