@@ -1,4 +1,4 @@
-/// @file squaresolver.h
+///    @file squaresolver.h
 
 const double EPS = 0.000001;
 
