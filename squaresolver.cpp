@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <assert.h>
-
-#include "squaresolver.h"
 
 double Discrim(double a, double b, double c)
 {
