@@ -8,8 +8,6 @@
 #include "testing.h"
 #include "testing.cpp"
 
-static const double EPS = 0.000001;
-
 double Discrim(double a, double b, double c);
 int IsEqual(double val1, double val2);
 int SquareSolver(double a, double b, double c, double *x1, double *x2);
