@@ -1,1 +1,1 @@
-# sch21_squaresolver
+# sch21_quadraticequations
