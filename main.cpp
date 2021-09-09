@@ -7,12 +7,6 @@
 #include "testing.h"
 #include "testing.cpp"
 
-double Discrim(double a, double b, double c);
-int IsEqual(double val1, double val2);
-int SquareSolver(double a, double b, double c, double *x1, double *x2);
-void PrintRoots(double x1, double x2, int numRoots);
-int Testing();
-
 int main(){
 
     printf("This program was built by Ivan Zinin.\n\n");
